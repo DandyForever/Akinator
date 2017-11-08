@@ -1,0 +1,23 @@
+'
+('Rasteniye'
+	('Laet'
+		('Voet'
+			('Bolshaya'
+				('Kot'
+				)
+				('KOSHKA-POLTORASHKA'
+				)
+			)
+			('Volk'
+			)
+		)
+		('Sobaka'
+		)
+	)
+	('Menshe dereva'
+		('Derevo'
+		)
+		('Kust'
+		)
+	)
+)
